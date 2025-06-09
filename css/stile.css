@@ -48,6 +48,12 @@
 
 /* Header */
 
+nav {
+  padding: 4px 300px;
+}
+
+
+
 header {
   padding: 8px;
 }
@@ -134,6 +140,8 @@ a {
 .col-40 {
   width: 40%;
 }
+
+/* Footer */
 
 footer span,
 button {
