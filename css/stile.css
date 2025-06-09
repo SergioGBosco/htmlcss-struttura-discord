@@ -31,6 +31,11 @@
   padding: 20px;
 }
 
+.py5-20 {
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+
 .h-800 {
   height: 800px;
 }
@@ -43,6 +48,10 @@ header {
 
 .border-dotted {
   border: 1px dotted black;
+}
+
+.border-dotted-w {
+  border: 1px dotted white;
 }
 
 ul {
@@ -92,6 +101,16 @@ a {
   background-color: green;
 }
 
+.black {
+  background-color: black;
+}
+
+.lightheavenly {
+  background-color: #20b3aa;
+}
+
+
+
 /* Colonne */
 
 .col-35 {
@@ -102,6 +121,10 @@ a {
   width: 65%;
 }
 
-.col-100 {
-  width: 100%;
+.col-15 {
+  width: 15%;
+}
+
+.col-40 {
+  width: 40%;
 }
