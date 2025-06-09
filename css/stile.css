@@ -20,23 +20,21 @@
 .container-sm {
   max-width: 900px;
   margin: 0 auto;
-  padding
+}
+
+.mr-20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .py-20 {
   padding: 20px;
 }
 
-.container {
-  padding: 20px;
-}
+/* Header */
 
 header {
   padding: 8px;
-}
-
-.flex {
-  display: flex;
 }
 
 .border-dotted {
@@ -82,6 +80,10 @@ a {
   background-color: #1e90ff;
 }
 
+.lightgrey {
+  background-color: grey;
+}
+
 /* Colonne */
 
 .col-35 {
@@ -90,4 +92,8 @@ a {
 
 .col-65 {
   width: 65%;
+}
+
+.col-100 {
+  width: 100%;
 }
