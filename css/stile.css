@@ -20,6 +20,11 @@
 .container-sm {
   max-width: 900px;
   margin: 0 auto;
+  padding
+}
+
+.py-20 {
+  padding: 20px;
 }
 
 .container {
@@ -28,6 +33,10 @@
 
 header {
   padding: 8px;
+}
+
+.flex {
+  display: flex;
 }
 
 .border-dotted {
