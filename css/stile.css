@@ -22,6 +22,8 @@
   margin: 0 auto;
 }
 
+/* Utility */
+
 .mr-20 {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -38,6 +40,10 @@
 
 .h-800 {
   height: 800px;
+}
+
+.pyt-20 {
+  padding-top: 20px;
 }
 
 /* Header */
