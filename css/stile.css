@@ -134,3 +134,8 @@ a {
 .col-40 {
   width: 40%;
 }
+
+footer span,
+button {
+  margin: 10px 0;
+}
