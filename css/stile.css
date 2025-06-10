@@ -30,7 +30,11 @@
 }
 
 .py-20 {
-  padding: 20px;
+  padding: 20px 0;
+}
+
+.py-10 {
+  padding: 10px 0;
 }
 
 .py5-20 {
@@ -43,19 +47,7 @@
 }
 
 .pyt-20 {
-  padding-top: 20px;
-}
-
-/* Header */
-
-nav {
-  padding: 4px 300px;
-}
-
-
-
-header {
-  padding: 8px;
+  padding-top: 20px 0;
 }
 
 .border-dotted {
@@ -65,6 +57,17 @@ header {
 .border-dotted-w {
   border: 1px dotted white;
 }
+
+/* Header */
+
+nav {
+  padding: 4px 300px;
+}
+
+header {
+  padding: 8px;
+}
+
 
 ul {
   display: flex;
@@ -79,6 +82,8 @@ a {
 .space-between {
   justify-content: space-between;
 }
+
+
 
 /* Colori Sfondo */
 .lightblue {
@@ -143,7 +148,6 @@ a {
 
 /* Footer */
 
-footer span,
-button {
-  margin: 10px 0;
+hr {
+  margin-bottom: 20px;
 }
